@@ -1,10 +1,39 @@
+<p align="center"><img src="docs/banner.svg" alt="Mod Carrière Informatique pour Les Sims 4" width="100%"></p>
+
 # Mod Carrière Informatique pour Les Sims 4
 
 [English](README.md) · **Français** · [Español](README.es.md)
 
+[![Release](https://img.shields.io/github/v/release/mxthis971/sims4-it-career-mod?label=version&color=2fd98b)](https://github.com/mxthis971/sims4-it-career-mod/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/mxthis971/sims4-it-career-mod/total?color=2fd98b)](https://github.com/mxthis971/sims4-it-career-mod/releases)
+![Game](https://img.shields.io/badge/The%20Sims%204-1.121-blue)
+![Languages](https://img.shields.io/badge/lang-EN%20%7C%20FR%20%7C%20ES-informational)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)](LICENSE)
+
+> Ton Sim répare l'imprimante, bloque un pirate, survit à la panne de serveur de 3 h du matin… et toi, tu apprends la vraie informatique au passage.
+
 Une nouvelle **carrière Informatique** pour Les Sims 4, créée par un étudiant en informatique. Commence au helpdesk, puis choisis ta voie au niveau 5 : **Administrateur réseau**, **Cybersécurité** ou **Développement logiciel**. En chemin, des situations de travail réalistes t'apprennent de vraies notions (VLAN, sauvegardes, phishing, RGPD…), expliquées simplement.
 
 Disponible en **français, anglais et espagnol** (le jeu choisit ta langue tout seul).
+
+<p align="center"><a href="https://github.com/mxthis971/sims4-it-career-mod/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20T%C3%A9l%C3%A9charger%20la%20derni%C3%A8re%20version-2fd98b?style=for-the-badge" alt="Télécharger la dernière version"></a></p>
+
+## Pourquoi tu vas aimer
+
+- **De vrais choix au travail** : 107 situations où tu décides ce que fait ton Sim, avec des conséquences sur la performance, l'argent et les compétences.
+- **Apprendre pour de vrai** : chaque résultat se termine par un « Le savais-tu ? » écrit par un étudiant en informatique (phishing, VLAN, sauvegardes, RGPD…).
+- **Jouer depuis la maison** : missions et contrats freelance sur n'importe quel ordinateur, même pour les ados et les Sims sans emploi.
+- **Léger** : 2 fichiers, aucun pack d'extension, aucun autre mod requis.
+
+### Exemple de situation
+
+> **Le QR code piégé**
+> Des autocollants avec un QR code « Wi-Fi gratuit » sont apparus dans le hall de l'entreprise.
+>
+> **Choix :** *Les retirer et prévenir tout le monde*
+> Le QR code menait vers une fausse page de connexion qui volait les mots de passe. Personne ne s'est fait avoir.
+>
+> 💡 *Le savais-tu ? Un QR code est juste un lien caché : on vérifie l'adresse avant de saisir quoi que ce soit (quishing).*
 
 ## Contenu
 
@@ -48,3 +77,7 @@ Le dossier `src/` contient les scripts de construction (`python3 build.py`) et t
 
 [CC BY-NC 4.0](LICENSE) : libre de partager et modifier en citant l'auteur, **pas d'usage commercial**.
 Les Sims 4 est une marque d'Electronic Arts Inc. Ce mod n'est ni affilié ni approuvé par EA.
+
+---
+
+Si le mod te plaît, une ⭐ sur cette page aide les autres joueurs à le trouver.

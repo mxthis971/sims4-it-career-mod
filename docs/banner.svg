@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1d2e"/>
+      <stop offset="1" stop-color="#102f3f"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1d4256" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)" opacity="0.6"/>
+  <!-- terminal window -->
+  <g transform="translate(760,70)">
+    <rect width="380" height="220" rx="14" fill="#06121c" stroke="#2fd98b" stroke-width="2"/>
+    <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+    <g font-family="Consolas, Menlo, monospace" font-size="18" fill="#2fd98b">
+      <text x="22" y="70">$ ping helpdesk</text>
+      <text x="22" y="100" fill="#8fb7c9">reply: coffee machine down</text>
+      <text x="22" y="135">$ sudo promote --sim</text>
+      <text x="22" y="165" fill="#8fb7c9">level 10 reached: CISO</text>
+      <text x="22" y="200">$ _</text>
+    </g>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="60" y="120" font-size="64" font-weight="700" fill="#ffffff">IT Career Mod</text>
+    <text x="62" y="165" font-size="28" fill="#8fe3bd">for The Sims 4</text>
+    <text x="62" y="225" font-size="24" fill="#d7e6ee">Helpdesk → Network · Cybersecurity · Dev</text>
+    <text x="62" y="262" font-size="22" fill="#9fb9c6">107 work situations · home missions · freelance gigs</text>
+    <g font-size="18" font-weight="600">
+      <rect x="62" y="290" width="58" height="32" rx="8" fill="#2fd98b"/><text x="77" y="312" fill="#06121c">EN</text>
+      <rect x="130" y="290" width="58" height="32" rx="8" fill="#2fd98b"/><text x="147" y="312" fill="#06121c">FR</text>
+      <rect x="198" y="290" width="58" height="32" rx="8" fill="#2fd98b"/><text x="215" y="312" fill="#06121c">ES</text>
+      <text x="276" y="312" fill="#9fb9c6" font-weight="400">No expansion pack needed</text>
+    </g>
+  </g>
+</svg>
