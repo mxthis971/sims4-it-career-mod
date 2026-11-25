@@ -1,0 +1,9 @@
+# Fichiers extraits du jeu (propriété d'EA) : ne jamais les publier
+src/ref/
+src/tpl/
+src/si_template.xml
+src/advkeys.txt
+# Sorties de build (publiées dans les Releases)
+src/out/
+__pycache__/
+*.pyc
